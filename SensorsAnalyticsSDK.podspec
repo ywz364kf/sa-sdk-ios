@@ -8,7 +8,6 @@ Pod::Spec.new do |s|
   s.author = { "Yuhan ZOU" => "zouyuhan@sensorsdata.cn" }
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.13'
-  s.tvos.deployment_target = '17.0'
   s.default_subspec = 'Core'
   s.frameworks = 'Foundation', 'SystemConfiguration'
 
